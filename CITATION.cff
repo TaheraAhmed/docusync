@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this, please cite:"
+authors:
+  - family-names: Ahmed
+    given-names: Syeda Tahera
+title: "DocuSync"
+version: "0.1.0"
+date-released: "2025-08-27"
