@@ -1,5 +1,5 @@
 # DocuSync — LLM-Assisted Documentation
-**One-liner:** Automates product documentation from codebase & release metadata with an LLM + CI/CD.
+Automates product documentation from codebase & release metadata with an LLM + CI/CD.
 
 ## 1) Problem
 Manual doc writing slowed releases and produced inconsistencies.
@@ -20,3 +20,4 @@ Manual doc writing slowed releases and produced inconsistencies.
 pip install -r requirements.txt
 export OPENAI_API_KEY=...
 python src/generate_docs.py --release_notes path/to/notes.md
+
