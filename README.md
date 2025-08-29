@@ -22,8 +22,13 @@ Manual doc writing slowed releases and produced inconsistencies.
 pip install -r requirements.txt
 export OPENAI_API_KEY=...
 python src/generate_docs.py --release_notes path/to/notes.md
+```
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![Status](https://img.shields.io/badge/status-in_progress-yellow)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
+
+
+
+
 
